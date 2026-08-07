@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "AnarchPissBot",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
   "server": {
     "ip": "anarchypiss.aternos.me",
