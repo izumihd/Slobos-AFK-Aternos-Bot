@@ -1,21 +1,21 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AnarchPissBot",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "anarchypiss.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 3988208,
     "y": 100,
-    "z": 0
+    "z": -2107312
   },
   "utils": {
     "auto-auth": {
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Play AnarchPiss Today!"
       ]
     },
     "chat-log": true,
